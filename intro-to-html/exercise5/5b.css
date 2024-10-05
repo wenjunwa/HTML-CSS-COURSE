@@ -1,0 +1,15 @@
+p{
+  font-family: Arial;
+  margin-top:0;
+  margin-bottom: 0;
+}
+.deal{
+  font-size:larger;
+  font-weight:bold;
+}
+
+.shopping{
+  font-style: italic;
+  color: red;
+  margin-top: 4px;
+}

@@ -1,0 +1,28 @@
+.f-name,
+.l-name,
+.email,
+.sign-up{
+  font-size: 16px;
+  padding-left: 10px;
+  padding-top:10px;
+  padding-bottom:10px;
+  border-radius: 10px;
+  border-width: 1px;
+  border-style: solid;
+  margin-bottom: 12px;
+}
+
+.email{
+  display: block;
+  padding-right: 215px;
+}
+
+.sign-up{
+  padding-left: 182px;
+  padding-right: 182px;
+  background-color: blue;
+  border: none;
+  font-size: larger;
+  font-weight: bold;
+  color: white;
+}

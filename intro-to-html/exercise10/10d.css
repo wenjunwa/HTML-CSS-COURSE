@@ -1,0 +1,73 @@
+p{
+  margin:0px;
+  font-family: Roboto, Arial;
+}
+
+.profile{
+  display: inline-block;
+  width: 200px;
+  border:none;
+  box-shadow: 0 0 5px rgba(0,0,0,0.25);
+  margin:5px;
+}
+
+.pic-info{
+  width:10%;
+  margin-bottom: 8px;
+}
+
+.pic{
+  width:200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.text-info{
+  width:100%;
+  margin-left: 5px;
+}
+
+.name,
+.friends,
+.add-friend{
+  margin-bottom:5px;
+}
+
+
+.name{
+  font-size: 18px;
+  font-weight: 700;
+
+}
+
+.friends{
+  width:100%;
+}
+
+.thumnail{
+  width: 30px;
+  height:30px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 15px;
+  vertical-align: center;
+  margin-right: 3px;
+}
+
+
+.friends-cnt{
+  display: inline-block;
+  line-height: 30px;
+  vertical-align: top;
+
+}
+
+.add-friend{
+  background-color: rgb(96, 141, 238);
+  color: white;
+  border:none;
+  padding:8px 20px;
+  border-radius:5px;
+  font-size: 15px;
+}

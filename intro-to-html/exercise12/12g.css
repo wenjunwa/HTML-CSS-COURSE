@@ -1,0 +1,53 @@
+p{
+  margin:0px;
+  font-family: roboto, arial;
+  font-size:15px;
+  color: gray;
+}
+
+.info{
+  width:400px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.left{
+  display:flex;
+  width:50px;
+  margin:10px;
+  align-items: center;
+}
+
+.pic{
+  width: 100%;
+  height:50px;
+  object-fit: cover;
+  border-radius: 25px;
+}
+
+.middle{
+  display:flex;
+  flex-direction: column;
+  flex:1;
+  margin:8px;
+}
+.name{
+  font-weight: 700;
+  color: black;
+}
+
+.right{
+  width:75px;
+}
+
+.follow{
+  background-color: rgb(5, 110, 230);
+  color:white;
+  font-family: roboto,arial;
+  font-size:15px;
+  font-weight: 700;
+  border:none;
+  padding:10px 15px;
+  border-radius: 10px;
+}

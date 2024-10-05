@@ -1,0 +1,10 @@
+.c1{
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  padding-left:15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 16px;
+  border-color: grey;
+}

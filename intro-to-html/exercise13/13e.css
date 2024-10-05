@@ -1,0 +1,72 @@
+p{
+  font-family: roboto, arial;
+  margin:0px;
+}
+
+.box{
+  width: 440px;
+  border: none;
+  box-shadow: 0 0 5px rgba(0,0,0,0.25);
+  padding-bottom: 20px;
+}
+
+.box-title{
+  padding:10px 15px;
+  padding-bottom: 0px;
+}
+
+.box-title-text{
+  color:gray;
+}
+
+.info{
+  display:flex;
+  flex-direction: row;
+  margin:30px 15px;
+  align-items: center;
+
+}
+
+.thumbnail{
+  width: 60px;
+}
+
+.pic{
+  width: 60px;
+  height: 60px;
+  object-fit:cover;
+  border-radius: 30px;
+}
+
+.text{
+  flex:1;
+  margin-left:10px;
+}
+
+.row1{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+.company{
+  font-weight: bolder;
+  font-size: 18px;
+}
+
+.time{
+  color:gray;
+}
+
+.row2{
+  margin-bottom: 8px;
+}
+
+.promotion{
+  font-weight: bold;
+}
+
+.sentance{
+  color:gray;
+}

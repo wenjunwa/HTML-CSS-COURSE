@@ -1,0 +1,35 @@
+.text{
+  font-size: xx-large;
+  font-family: Roboto;
+  font-weight: bold;
+}
+
+.pickup,
+.desti{
+  display: block;
+  padding-left: 20px;
+  padding-right: 150px;
+  padding-top:10px;
+  padding-bottom: 10px;
+  margin-bottom: 12px;
+  background-color: rgba(250, 248, 248, 0.993);
+  border: none
+}
+
+.request,
+.schedule{
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border:none;
+}
+
+.request{
+  background-color: black;
+  color:white;
+}
+
+.schedule{
+  background-color: rgba(250, 248, 248, 0.993);
+}

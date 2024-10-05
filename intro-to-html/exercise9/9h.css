@@ -1,0 +1,27 @@
+.google{
+  width: 800px;
+  text-align: center;
+}
+
+
+.search,
+.b1,
+.b2{
+  margin:0px;
+  margin:5px;
+  font-family: roboto;
+  font-size:large;
+  padding:12px 25px;
+  border: none
+}
+
+.pic{
+  width:300px;
+}
+.search{
+  width: 700px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.25);
+  border-radius: 25px;
+  font-size: x-large;
+  margin-bottom: 35px;
+}
